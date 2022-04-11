@@ -1,0 +1,113 @@
+* {
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+    font-family: 'Oswald';
+}
+
+body {
+    background-image: url(../img/fond.png);
+    margin: auto;
+    width: 700px;
+}
+
+nav {
+    background-color: #B8CB21;
+}
+
+.logo-top {}
+
+main {
+    background-color: white;
+    padding-bottom: 23px;
+}
+
+h3 .section2 {
+    padding-left: 2px;
+}
+
+ul {
+    float: right;
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+
+ul li {
+    text-align: center;
+    display: inline;
+}
+
+a {
+    padding-right: 30px;
+    font-family: ;
+}
+
+.who-pic {
+    width: 190px;
+    float: left;
+    margin-right: 10px;
+}
+
+.section1 {
+    padding-left: 17px;
+}
+
+.lorem1 {
+    font-family: Arial, Helvetica, sans-serif !important;
+    padding-right: 15px;
+}
+
+h3 {
+    color: #B8CB21;
+    font-weight: 350;
+    padding-top: 20px;
+    padding-left: 15px;
+    margin-top: auto;
+}
+
+
+}
+.lorem2 {
+    padding-right: 15px;
+}
+.btn1 {
+    margin-left: 587px;
+    background-color: #B8CB21;
+    color: rgb(236, 236, 236);
+    font-family: system-ui;
+    font-size: revert;
+    border: aliceblue;
+}
+.what-pic {
+    padding-left: 15px;
+    float: left;
+}
+.lorem3 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 216px;
+    padding-right: 19px;
+}
+.lorem4 {
+    margin-left: 17px;
+    padding-right: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.lorem5 {
+    margin-left: 17px;
+    padding-right: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.liste2 li {
+    margin-right: 467px;
+    margin-top: 2px !important;
+}
+.logob {
+    padding-left: 339px;
+    margin-top: 20px;
+}
+.f-texte {
+    text-align: center;
+    text-align: ;
+    line-height: 6px;
+}
+.material-icons {
+    color: #B8CB21;
+}
